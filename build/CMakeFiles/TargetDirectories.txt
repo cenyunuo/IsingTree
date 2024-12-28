@@ -1,0 +1,3 @@
+/home/yun/IsingTree/build/CMakeFiles/IsingTree.dir
+/home/yun/IsingTree/build/CMakeFiles/edit_cache.dir
+/home/yun/IsingTree/build/CMakeFiles/rebuild_cache.dir

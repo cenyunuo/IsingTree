@@ -3,9 +3,9 @@ A tree search algorithm for improving continuous Ising solvers on MaxSAT solving
 
 ## Requirement
 ```
-pybind11
-jax
-jaxopt
+sudo apt install pybind11-dev
+pip install -U jax
+pip install jaxopt
 ```
 
 ## Installation

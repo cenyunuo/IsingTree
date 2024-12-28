@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared  -o IsingTree.so CMakeFiles/IsingTree.dir/IsingTree.cpp.o CMakeFiles/IsingTree.dir/bindings.cpp.o  /usr/lib/x86_64-linux-gnu/libpython3.10.so 
